@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "description": "Sample dataset: Apple Inc. (AAPL) in the Technology / Consumer Electronics industry, benchmarked against US and global macro indicators.",
+    "data_period": "FY2024 (trailing twelve months)",
+    "note": "Values are illustrative and based on publicly available estimates. Replace with live data for production use."
+  },
+
+  "firm": {
+    "firm_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "industry": "Technology — Consumer Electronics & Services",
+    "fiscal_year": "FY2024",
+    "data": {
+      "revenue": 385600,
+      "revenue_growth_yoy": 2.1,
+      "gross_margin": 46.2,
+      "operating_margin": 30.7,
+      "net_margin": 25.3,
+      "roe": 160.1,
+      "roa": 28.3,
+      "market_cap": 2950000,
+      "pe_ratio": 30.5,
+      "ev_to_ebitda": 24.1,
+      "price_to_book": 48.2,
+      "market_share": 27.0,
+      "market_share_delta_yoy": -0.5,
+      "debt_to_equity": 1.76,
+      "current_ratio": 0.99,
+      "asset_turnover": 1.13,
+      "rd_to_revenue": 7.8
+    }
+  },
+
+  "industry": {
+    "industry_revenue_growth": 3.5,
+    "industry_avg_operating_margin": 18.2,
+    "industry_avg_pe": 25.0,
+    "industry_total_market_size": 680,
+    "industry_hhi": 1850,
+    "industry_num_major_competitors": 6,
+    "industry_entry_barrier_score": 8,
+    "industry_regulatory_risk_score": 6,
+    "industry_tech_disruption_score": 7
+  },
+
+  "macro_us": {
+    "gdp_growth_rate": 2.5,
+    "gdp_per_capita": 80035,
+    "industrial_production_index": 1.2,
+    "cpi_inflation_rate": 3.1,
+    "ppi_inflation_rate": 2.4,
+    "unemployment_rate": 3.7,
+    "labor_force_participation": 62.7,
+    "policy_interest_rate": 5.33,
+    "money_supply_m2_growth": 3.5,
+    "govt_debt_to_gdp": 123.0,
+    "fiscal_deficit_to_gdp": -6.3,
+    "current_account_to_gdp": -3.0,
+    "trade_balance": -773.4,
+    "equity_market_return_ytd": 24.2,
+    "sovereign_10y_yield": 4.25
+  },
+
+  "macro_global": {
+    "gdp_growth_rate": 3.1,
+    "gdp_per_capita": 13200,
+    "industrial_production_index": 2.8,
+    "cpi_inflation_rate": 5.8,
+    "ppi_inflation_rate": 4.1,
+    "unemployment_rate": 5.1,
+    "labor_force_participation": 59.3,
+    "policy_interest_rate": 6.75,
+    "money_supply_m2_growth": 5.2,
+    "govt_debt_to_gdp": 92.0,
+    "fiscal_deficit_to_gdp": -4.8,
+    "current_account_to_gdp": 0.2,
+    "trade_balance": 0,
+    "equity_market_return_ytd": 11.5,
+    "sovereign_10y_yield": 5.10
+  }
+}

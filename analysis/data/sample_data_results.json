@@ -1,0 +1,211 @@
+{
+  "scorecard": {
+    "firm": "Apple Inc.",
+    "ticker": "AAPL",
+    "industry": "Technology \u2014 Consumer Electronics & Services",
+    "fiscal_year": "FY2024",
+    "dimensions": {
+      "growth_alignment": {
+        "score": 48.0,
+        "label": "Average",
+        "weight": 0.25
+      },
+      "inflation_resilience": {
+        "score": 100,
+        "label": "Exceptional",
+        "weight": 0.15
+      },
+      "rate_exposure": {
+        "score": 6.2,
+        "label": "Critical",
+        "weight": 0.1
+      },
+      "labor_context": {
+        "score": 90,
+        "label": "Exceptional",
+        "weight": 0.1
+      },
+      "valuation_attractiveness": {
+        "score": 12.9,
+        "label": "Weak",
+        "weight": 0.15
+      },
+      "industry_positioning": {
+        "score": 68.5,
+        "label": "Above Average",
+        "weight": 0.25
+      }
+    },
+    "composite_score": 55.7,
+    "composite_label": "Average",
+    "dimensions_with_data": 6,
+    "total_dimensions": 6
+  },
+  "full_comparison": {
+    "firm": "Apple Inc.",
+    "ticker": "AAPL",
+    "industry": "Technology \u2014 Consumer Electronics & Services",
+    "fiscal_year": "FY2024",
+    "comparisons": {
+      "growth_alignment": {
+        "firm_revenue_growth": 2.1,
+        "us_gdp_growth": 2.5,
+        "global_gdp_growth": 3.1,
+        "vs_us_gdp_delta": -0.4,
+        "vs_us_assessment": "tracking_us_economy",
+        "vs_global_gdp_delta": -1.0,
+        "vs_global_assessment": "tracking_global_economy"
+      },
+      "inflation_sensitivity": {
+        "firm_gross_margin": 46.2,
+        "firm_operating_margin": 30.7,
+        "us_cpi": 3.1,
+        "us_ppi": 2.4,
+        "margin_to_cpi_ratio": 9.9,
+        "pricing_power": "strong"
+      },
+      "interest_rate_exposure": {
+        "firm_debt_to_equity": 1.76,
+        "us_policy_rate": 5.33,
+        "us_10y_yield": 4.25,
+        "rate_sensitivity_product": 9.38,
+        "exposure_assessment": "high"
+      },
+      "labor_market_context": {
+        "us_unemployment": 3.7,
+        "us_lfpr": 62.7,
+        "firm_operating_margin": 30.7,
+        "labor_market_state": "tight",
+        "wage_pressure_risk": "elevated"
+      },
+      "valuation_vs_market": {
+        "firm_pe": 30.5,
+        "us_equity_market_ytd": 24.2,
+        "us_10y_yield": 4.25,
+        "firm_earnings_yield": 3.28,
+        "equity_risk_premium": -0.97,
+        "erp_assessment": "unattractive_vs_bonds"
+      },
+      "trade_exposure_context": {
+        "us_current_account_pct_gdp": -3.0,
+        "us_trade_balance_bn": -773.4,
+        "global_current_account_pct_gdp": 0.2,
+        "macro_trade_environment": "deficit"
+      }
+    },
+    "industry_position": {
+      "firm": "Apple Inc.",
+      "ticker": "AAPL",
+      "industry": "Technology \u2014 Consumer Electronics & Services",
+      "position": "leader",
+      "growth": {
+        "firm_growth": 2.1,
+        "industry_growth": 3.5,
+        "delta_pp": -1.4,
+        "assessment": "in_line_with_industry"
+      },
+      "margins": {
+        "firm_margin": 30.7,
+        "industry_avg_margin": 18.2,
+        "delta_pp": 12.5,
+        "assessment": "margin_leader"
+      },
+      "valuation": {
+        "firm_pe": 30.5,
+        "industry_avg_pe": 25.0,
+        "pe_ratio_vs_industry": 1.22,
+        "assessment": "premium_valued"
+      },
+      "industry_structure": {
+        "total_addressable_market": 680,
+        "hhi": 1850,
+        "major_competitors": 6,
+        "entry_barrier": 8,
+        "regulatory_risk": 6,
+        "tech_disruption_risk": 7,
+        "concentration": "moderately_concentrated"
+      },
+      "composite": {
+        "score": 68.5,
+        "label": "Above Average",
+        "position": "leader",
+        "components_used": 4
+      }
+    },
+    "us_vs_global_macro": {
+      "score": 61.9,
+      "label": "Above Average",
+      "category_detail": {
+        "output_growth": {
+          "us_outperforms": 1,
+          "us_underperforms": 2,
+          "neutral": 0,
+          "no_data": 0,
+          "score": 33.3,
+          "label": "Below Average"
+        },
+        "price_stability": {
+          "us_outperforms": 2,
+          "us_underperforms": 0,
+          "neutral": 0,
+          "no_data": 0,
+          "score": 100.0,
+          "label": "Exceptional"
+        },
+        "labor_market": {
+          "us_outperforms": 2,
+          "us_underperforms": 0,
+          "neutral": 0,
+          "no_data": 0,
+          "score": 100.0,
+          "label": "Exceptional"
+        },
+        "monetary_policy": {
+          "us_outperforms": 0,
+          "us_underperforms": 0,
+          "neutral": 2,
+          "no_data": 0,
+          "score": 50.0,
+          "label": "Average"
+        },
+        "fiscal_position": {
+          "us_outperforms": 1,
+          "us_underperforms": 1,
+          "neutral": 0,
+          "no_data": 0,
+          "score": 50.0,
+          "label": "Average"
+        },
+        "trade_external": {
+          "us_outperforms": 0,
+          "us_underperforms": 2,
+          "neutral": 0,
+          "no_data": 0,
+          "score": 0.0,
+          "label": "Critical"
+        },
+        "financial_markets": {
+          "us_outperforms": 1,
+          "us_underperforms": 0,
+          "neutral": 1,
+          "no_data": 0,
+          "score": 100.0,
+          "label": "Exceptional"
+        }
+      }
+    }
+  },
+  "key_findings": [
+    "Apple Inc. (AAPL) receives an overall economic-position score of 55.7/100 (Average).",
+    "Growth alignment: The firm is tracking us economy (revenue growth 2.1% vs US GDP growth 2.5%).",
+    "Pricing power assessment: strong (operating margin / CPI ratio = 9.9).",
+    "Interest rate exposure: high (D/E = 1.76, policy rate = 5.33%).",
+    "Valuation vs bonds: unattractive vs bonds (earnings yield 3.28% vs 10Y yield 4.25%).",
+    "Industry position: classified as 'leader' within Technology \u2014 Consumer Electronics & Services.",
+    "Strongest dimension: inflation resilience (100/100).",
+    "Weakest dimension: rate exposure (6.2/100)."
+  ],
+  "risk_factors": [
+    "HIGH: Elevated interest-rate exposure due to high leverage in a rising-rate environment."
+  ]
+}

@@ -55,8 +55,8 @@ jobs:
         with:
           fetch-depth: 0 # Let's get all the branches.
 
-      # Verify the PR updated package.json
-      - name: Check package.json
+      # Verify the learner added the skills.js file with the calculateNumbers function.
+      - name: Check skills.js for calculateNumbers function
         uses: skills/action-check-file@v1
         with:
           file: "skills.js"

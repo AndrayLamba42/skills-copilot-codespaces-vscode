@@ -56,7 +56,7 @@ jobs:
           fetch-depth: 0 # Let's get all the branches.
 
       # Verify the skills member function is present.
-      - name: Check package for axios version 0.21.2
+      - name: Check member.js for skillsMember function
         uses: skills/action-check-file@v1
         with:
           file: "member.js"

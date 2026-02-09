@@ -1,7 +1,7 @@
 name: Step 4, Add Copilot suggestion from comment
 
 # This step triggers after push to main#comments.js.
-# This step updates from step 3 to step 4.
+# This workflow updates from step 4 to step X.
 
 # This will run every time we main#comments.js.
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
